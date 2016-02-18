@@ -1,0 +1,23 @@
+# Practical Programming Tutorials - JAVA
+
+Each tutorial is a functioning program with heavily documented code.
+To get the most out of each tutorial, adhere to the following steps:
+	1. View the README file for the project if it has its own directory.
+	2. Read the java file source code.
+	3. Build and execute the project.
+	4. Experiment by adding to the code, build and run the project, repeat!
+	5. When you are confident you understand the concepts presented, move on to the next tutorial.
+
+*Notes for learner:
+	If you are just starting out, start with the HelloWorld.java source file first.
+
+FAQ:
+	1)	What are the prerequisites to starting these tutorials?
+		These tutorials assume some familiarity with a command-line-interface like that of the linux terminal. Some knowledge of makefiles and how they work is preferred, but not necessary for understanding the core of the tutorials.
+		
+
+	2)	What environment do I need?
+		Any environment(Windows, OSX, Linux) will work for reading/learning from the tutorials, but a linux type environment is encouraged as the CLI commands used are linux based. Further, you need to download and install java if you have not already.
+
+	3 ) How do I build and run this code?
+		Each project has a 'Makefile' associated with it. The initial tutorials use a single makefile to build and execute the code. For example, if the tutorial file you are on is 'HelloWorld.java', you can build this source code and run it using the makefile like so: 'make helloworld'. Similarly, if the tutorial is named Inheritance020.java, you could run the application by performing the following: 'make inheritance020' in the console.
