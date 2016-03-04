@@ -6,7 +6,6 @@
 		1. Ruby is whitespace agnostic unlike Python
 		2. Because of rule one, you need to use 'end' keyword to control conditionals, loops, classes, functions...
 
-
 =end
 
 # Constants
