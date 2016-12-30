@@ -6,3 +6,5 @@ Practical programming tutorials in various languages
 *Tutorials can be visited in any order, but it may help to start with the initial tutorial and move on once you are confident with the concepts presented.
 
 I may not have a tutorial for the topic you are looking for, and if this is the case, please make the recommendation and I would be happy to add it.
+
+STATUS: ON HOLD for now.
